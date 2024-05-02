@@ -1,3 +1,5 @@
+This project explores the integration of Augmented Reality (AR) technology into interior design, specifically focusing on furniture visualization and selection. Traditional design methods often lack interactive and immersive experiences, hindering effective decision-making. Our proposal addresses this gap by introducing a simple mobile AR app that eliminates the need for expensive AR/VR equipment.
+
 ![image](https://github.com/Zaiba80/DecorHive-Interior-Designing-Appication-Using-Augmented-Reality/assets/96087855/377cedf1-9b97-4eb8-92df-47d37fa93179)     ![image](https://github.com/Zaiba80/DecorHive-Interior-Designing-Appication-Using-Augmented-Reality/assets/96087855/8480ab99-7007-4f81-bb48-9898d522692e)      ![image](https://github.com/Zaiba80/DecorHive-Interior-Designing-Appication-Using-Augmented-Reality/assets/96087855/510d12c6-efa0-4b88-9761-e7762a81dd45)
 
 
